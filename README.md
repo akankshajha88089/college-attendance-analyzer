@@ -1,4 +1,4 @@
-[05/11, 9:33 pm] Tushari: # PS No. 9: College Attendance Analyzer
+ # PS No. 9: College Attendance Analyzer
 
 ## Project Overview
 The **College Attendance Analyzer** is a Python-based data analysis tool designed to evaluate student attendance records from a CSV file. It calculates attendance percentages, identifies students with attendance shortages below the mandatory 75% threshold, handles data validation errors, and visualizes overall attendance trends using Matplotlib charts.
