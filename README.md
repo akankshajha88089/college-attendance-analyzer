@@ -33,15 +33,13 @@ The **College Attendance Analyzer** is a Python-based data analysis tool designe
 To install the required libraries, run:
 ```bash
 pip install pandas matplotlib
-[05/11, 9:33 pm] Tushari: ---
 
 ## Project Mentor
 
 - **Mentored by:** [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
 - **GitHub:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
 - **Role:** Python Mentor / Technical Guide
--
-[05/11, 9:33 pm] Tushari: # PS No. 9: College Attendance Analyzer
+- # PS No. 9: College Attendance Analyzer
 
 ## Project Overview
 The **College Attendance Analyzer** is a Python-based data analysis tool designed to evaluate student attendance records from a CSV file. It calculates attendance percentages, identifies students with attendance shortages below the mandatory 75% threshold, handles data validation errors, and visualizes overall attendance trends using Matplotlib charts.
@@ -76,7 +74,7 @@ The **College Attendance Analyzer** is a Python-based data analysis tool designe
 To install the required libraries, run:
 ```bash
 pip install pandas matplotlib
-[05/11, 9:33 pm] Tushari: ---
+
 
 ## Project Mentor
 
